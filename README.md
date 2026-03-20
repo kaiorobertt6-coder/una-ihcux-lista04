@@ -4,4 +4,9 @@ O try-catch é usado para tratar erros em um programa, evitando que ele pare de 
 
 
 ## 📸 Evidência de Execução
-![Foto do meu terminal](./evidencia-erro.png)(./evidencia-sucesso.png)
+
+**Erro:**
+![Erro](./evidencia-erro.png)
+
+**Sucesso:**
+![Sucesso](./evidencia-sucesso.png)
