@@ -1,0 +1,14 @@
+C:\Users\kaior\Documents\teste\sistemaRobusto\bin\Debug\net10.0\sistemaRobusto.exe
+C:\Users\kaior\Documents\teste\sistemaRobusto\bin\Debug\net10.0\sistemaRobusto.deps.json
+C:\Users\kaior\Documents\teste\sistemaRobusto\bin\Debug\net10.0\sistemaRobusto.runtimeconfig.json
+C:\Users\kaior\Documents\teste\sistemaRobusto\bin\Debug\net10.0\sistemaRobusto.dll
+C:\Users\kaior\Documents\teste\sistemaRobusto\bin\Debug\net10.0\sistemaRobusto.pdb
+C:\Users\kaior\Documents\teste\sistemaRobusto\obj\Debug\net10.0\sistemaRobusto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaior\Documents\teste\sistemaRobusto\obj\Debug\net10.0\sistemaRobusto.AssemblyInfoInputs.cache
+C:\Users\kaior\Documents\teste\sistemaRobusto\obj\Debug\net10.0\sistemaRobusto.AssemblyInfo.cs
+C:\Users\kaior\Documents\teste\sistemaRobusto\obj\Debug\net10.0\sistemaRobusto.csproj.CoreCompileInputs.cache
+C:\Users\kaior\Documents\teste\sistemaRobusto\obj\Debug\net10.0\sistemaRobusto.dll
+C:\Users\kaior\Documents\teste\sistemaRobusto\obj\Debug\net10.0\refint\sistemaRobusto.dll
+C:\Users\kaior\Documents\teste\sistemaRobusto\obj\Debug\net10.0\sistemaRobusto.pdb
+C:\Users\kaior\Documents\teste\sistemaRobusto\obj\Debug\net10.0\sistemaRobusto.genruntimeconfig.cache
+C:\Users\kaior\Documents\teste\sistemaRobusto\obj\Debug\net10.0\ref\sistemaRobusto.dll
